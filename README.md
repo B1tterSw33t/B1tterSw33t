@@ -1,13 +1,15 @@
 ## Hello I'm BitterSweet (sometimes B1tterSw33t) and here's something to know bout me:
 - Pronouns: They/Them
 - Favourite Colour: Vanta Black
-- Favourite Movie: Venom
-- Animes to watch: Plunderer and Chivalry of a Failed Night seem good :3
+- Favourite show/movie: Limitless (There's a tv show and movie)
+- Anime:
+  - Current: One Piece
+  - Queue: SAO and Chivalry of a Failed Night seem good :3
+- Manga: No Boku Hero Academia (v26)
+- Jr. Audiophile: True :3
 ### What programming languages?
-- Know: Javascript, Typescript, HTML, CSS
-- Want to start: Python, a C language, Rust
+- Know: Javascript, (meh) Typescript, HTML, Python, CSS, NodeJS
+- Want to start: C language, Rust, React
 ## Currently working on
-- Ricing my Arch Linux!
-- Polly
-- Cosplay outlines
-- Finding a profile picture that represents me
+- Cosplay outlines (Captian Boogey)
+- New Place, decorating (Toga poster)
