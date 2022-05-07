@@ -1,4 +1,4 @@
-## Hello I'm BitterSweet (sometimes B1tterSw33t) and here's something to know bout me:
+## Hello I'm BitterSweet(candyshop) and here's something to know bout me:
 - Pronouns: They/Them
 - Favourite Colour: Vanta Black
 - Favourite show/movie: Limitless (There's a tv show and movie)
