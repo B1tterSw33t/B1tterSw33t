@@ -7,6 +7,10 @@
   - Queue: SAO and Chivalry of a Failed Night seem good :3
 - Manga: Tokyo Ghoul - re
 - Jr. Audiophile: True :3
+### Contact
+- Reddit: u/BitterSweetcandyshop
+- Revolt: @BitterSweet
+- Discord: BitterSweet#1337
 ### What programming languages?
 - Know: Javascript, (meh) Typescript, HTML, Python, CSS, NodeJS
 - Want to start: C language, Rust, React
