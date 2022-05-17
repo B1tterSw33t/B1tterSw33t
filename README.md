@@ -8,9 +8,10 @@
 - Manga: Tokyo Ghoul - re
 - Jr. Audiophile: True :3
 ### Contact
-- Reddit: u/BitterSweetcandyshop
+- Reddit: [u/BitterSweetcandyshop](https://www.reddit.com/user/BitterSweetcandyshop)
 - Revolt: @BitterSweet
-- Discord: BitterSweet#1337
+- Matrix: bittersweetcandyshop
+- Discord: [BitterSweet#1337](https://discord.gg/UvBPsbAn)
 ### What programming languages?
 - Know: Javascript, (meh) Typescript, HTML, Python, CSS, NodeJS
 - Want to start: C language, Rust, React
@@ -18,3 +19,4 @@
 - Cosplay outlines (Captian Boogey)
 - Catppuccin dotfiles (with transparency though :D)
 - New Place, decorating (Juzo poster)
+- Ricing my linux settup
